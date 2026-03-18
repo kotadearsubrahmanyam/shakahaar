@@ -28,7 +28,7 @@ function Navbar() {
             <div className="w-14 h-14 rounded-full overflow-hidden border-2 border-gold">
               <img
                 src="/images/logo.png"
-                alt="Shakahaar Logo"
+                alt="THALIMPU Logo"
                 className="w-full h-full object-cover"
               />
             </div>
@@ -36,7 +36,7 @@ function Navbar() {
               className="text-2xl md:text-3xl font-medium text-darktext"
               style={{ fontFamily: "'Cormorant Garamond', serif" }}
             >
-              SHAKAHAAR
+              THALIMPU
             </span>
           </a>
 

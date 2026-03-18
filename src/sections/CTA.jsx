@@ -21,7 +21,7 @@ function CTA() {
           </h2>
 
           <p className="mt-6 font-bold text-white/80 leading-relaxed">
-            Let SHAKAHAAR bring refined vegetarian cuisine
+            Let THALIMPU bring refined vegetarian cuisine
             to your next gathering with elegance and balance.
           </p>
 
